@@ -10,6 +10,7 @@
    *  Plots of the Adj. Close price of APPL and AMZN stocks.
    *  Calculation of Overnight Returns and Intraday returns.
    *  Backtesting the strategy using the performance analysis of 10000$ initial investment for AMZN & AAPL stocks for Overnight vs Day.
+   *  Google Colab Link: https://colab.research.google.com/drive/1BNAzTNB4UYjU21cnWUib-av1dqdXTK9E?usp=sharing
    
 ###   Technology Requirements : 
       
